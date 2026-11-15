@@ -25,3 +25,6 @@ jobs:
 
       - name: Afficher mon nom
         run: echo "Nom :Fatima Malak Douahi"
+        
+      - name: Vérifier le déclenchement
+        run: echo "Le workflow se déclenche automatiquement !"
