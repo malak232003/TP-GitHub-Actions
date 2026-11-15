@@ -24,4 +24,4 @@ jobs:
         run: echo "Projet TP DevOps"
 
       - name: Afficher mon nom
-        run: echo "Nom : Fatima Malak Douahi"
+        run: echo "Nom :Fatima Malak Douahi"
