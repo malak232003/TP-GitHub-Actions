@@ -19,7 +19,9 @@ jobs:
 
       - name: Afficher le système
         run: uname -a
+
       - name: Nom du projet
         run: echo "Projet TP DevOps"
+
       - name: Afficher mon nom
         run: echo "Nom : Fatima Malak Douahi"
